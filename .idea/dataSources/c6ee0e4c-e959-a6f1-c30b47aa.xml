@@ -1604,6 +1604,8 @@
     <column id="558" parent="555" name="tbl_name">
       <Position>3</Position>
       <StoredType>TEXT|0s</StoredType>
+
+
         
     </column>
     <column id="559" parent="555" name="rootpage">
